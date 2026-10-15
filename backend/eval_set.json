@@ -1,0 +1,24 @@
+[
+  {"question": "How long is the internship?", "expected_keyword": "6 months", "doc": "AI Intern Job Details.pdf"},
+  {"question": "Where is the job located?", "expected_keyword": "Ahmedabad", "doc": "AI Intern Job Details.pdf"},
+  {"question": "What happens in the first two weeks?", "expected_keyword": "Orientation", "doc": "AI Intern Job Details.pdf"},
+  {"question": "Which vector database exposure is a bonus?", "expected_keyword": "vector databases", "doc": "AI Intern Job Details.pdf"},
+  {"question": "How are interns assessed at the end?", "expected_keyword": "Final Presentation", "doc": "AI Intern Job Details.pdf"},
+  {"question": "Is the internship paid or unpaid?", "expected_keyword": "Paid Internship", "doc": "AI Intern Job Details.pdf"},
+  {"question": "How many professionals work at the company?", "expected_keyword": "300 experienced", "doc": "AI Intern Job Details.pdf"},
+  {"question": "How often are intern performance evaluations held?", "expected_keyword": "monthly performance evaluations", "doc": "AI Intern Job Details.pdf"},
+
+  {"question": "In the coins analogy, what does the mapper do?", "expected_keyword": "Categorize coins", "doc": "Map reduce.pdf"},
+  {"question": "What is the typical block size HDFS splits files into?", "expected_keyword": "128 MB", "doc": "Map reduce.pdf"},
+  {"question": "What are the benefits of using a combiner?", "expected_keyword": "Reduce network traffic", "doc": "Map reduce.pdf"},
+  {"question": "Which component coordinates and schedules jobs in the MapReduce architecture?", "expected_keyword": "Job Tracker", "doc": "Map reduce.pdf"},
+  {"question": "What happens between the map phase and the reduce phase?", "expected_keyword": "Shuffle & Sort", "doc": "Map reduce.pdf"},
+  {"question": "How can the Hadoop flow be mimicked using the Linux pipe?", "expected_keyword": "mapper.py | sort", "doc": "Map reduce.pdf"},
+
+  {"question": "Which carrier frequencies does the RIS study consider?", "expected_keyword": "300 GHz", "doc": "presentation.pdf"},
+  {"question": "Which algorithm is used to tune the tower beam and the RIS elements?", "expected_keyword": "Alternating Optimization", "doc": "presentation.pdf"},
+  {"question": "What alternatives is the RIS design compared against?", "expected_keyword": "relay station", "doc": "presentation.pdf"},
+  {"question": "How many random channel conditions is each result averaged over?", "expected_keyword": "200 random", "doc": "presentation.pdf"},
+  {"question": "How large a panel do 1024 RIS elements need at 140 GHz?", "expected_keyword": "3.4 cm", "doc": "presentation.pdf"},
+  {"question": "How much more data does a tuned RIS give than an untuned one?", "expected_keyword": "4.4", "doc": "presentation.pdf"}
+]

@@ -1,0 +1,15 @@
+# Secrets / environment (never commit)
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Personal documents
+backend/AI Intern Job Details.pdf
